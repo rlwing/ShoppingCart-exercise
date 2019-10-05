@@ -1,9 +1,5 @@
 package com.galvanize.cart;
 
-import org.junit.Test;
-
-import static org.junit.Assert.*;
-
 public class ShoppingCartTest {
 
     /* Given that I visit the site, when I begin shopping, then I expect my
